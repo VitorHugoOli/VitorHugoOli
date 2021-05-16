@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorhugooli&theme=tokyonight)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorhugooli&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vitorhugooli)
+![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vitorhugooli)
